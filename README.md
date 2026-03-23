@@ -1,26 +1,13 @@
-\# COP3502C PA1
-
-
-
-\## Description
-
-Programming Assignment 1 for COP3502C.
-
-
-
-\## Author
-
+/* COP 3502C PA1
+This program is written by: Richard Magiday */
+/******************************************************************************
 Richard Magiday
+cop3502c_cmb_26
+01/14/26
+problem: CS1 PA1
 
-
-
-\## How to Compile
-
-gcc -o pa1 main.c
-
-
-
-\## How to Run
-
-./pa1
+cd PA1
+gcc mian.c
+Get-Content in1.txt | .\a.exe > out_test1.txt
+*******************************************************************************/
 
