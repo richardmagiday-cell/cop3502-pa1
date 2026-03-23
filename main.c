@@ -10,6 +10,7 @@ cd PA1
 gcc mian.c
 Get-Content in1.txt | .\a.exe > out_test1.txt
 *******************************************************************************/
+// testing github repo link
 
 #include <stdio.h>
 #include <stdlib.h>
